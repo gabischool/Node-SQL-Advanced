@@ -21,7 +21,7 @@ Write at `least a paragraph` explaining how you will normalize the data on this 
 | Gabi School        | Sarah Yusuf | Fowzi Ahmed | Biology   | Math        |
 
 
-## Task 4: Stretch Problems
+## Task 3: Stretch Problems
 
 In [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top):
 
