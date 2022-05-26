@@ -15,7 +15,7 @@ Write at `least a paragraph` explaining how you will normalize the data on this 
 
 
 | school_name        | student1    | student2    | class1    | class2      |
-| :----------------- | :---------- | :---------------------- | :---------- |
+| :----------------- | :---------- | :---------- |---------- | :---------- |
 | One Star Academy   | John Doe    | Jane Doe    | Math      | Science     |  
 | North Blue School  | Mohamed Ali | Hamdi Jama  | English   | English     |
 | Gabi School        | Sarah Yusuf | Fowzi Ahmed | Biology   | Math        |
